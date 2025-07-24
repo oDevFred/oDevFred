@@ -2,14 +2,10 @@
 
 <h2 align="center">💫 About Me:</h2>
 
-<p align="center>🚀 Developer in Training | Studying Analysis and Systems Development at UNICESUMAR</p>
-
-I'm a curious person, always seeking knowledge, with a special focus on Full-Stack.
-
-In my free time, I enjoy playing single-player games and spending time with my girlfriend ❤️.
-
-Let's build something awesome together!
-
+<p align="center">🚀 Developer in Training | Studying Analysis and Systems Development at UNICESUMAR</p>
+<p align="center">I'm a curious person, always seeking knowledge, with a special focus on Full-Stack.</p>
+<p align="center">In my free time, I enjoy playing single-player games and spending time with my girlfriend ❤️.</p>
+<p align="center">Let's build something awesome together!</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/qUJ7ZdJhqw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/odevfred) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-eduardo-ferreira-frederico-56ab67349/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:caio.frederico2001@outlook.com) 
