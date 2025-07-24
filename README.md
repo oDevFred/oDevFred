@@ -2,7 +2,7 @@
 
 <h2 align="center">💫 About Me:</h2>
 
-🚀 Developer in Training | Studying Analysis and Systems Development at UNICESUMAR
+<p align="center>🚀 Developer in Training | Studying Analysis and Systems Development at UNICESUMAR</p>
 
 I'm a curious person, always seeking knowledge, with a special focus on Full-Stack.
 
