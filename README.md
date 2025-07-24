@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caio "oDevFred" Frederico</h1>
-# 💫 About Me:
+
+<h2 align="center">💫 About Me:</h2>
 
 🚀 Developer in Training | Studying Analysis and Systems Development at UNICESUMAR
 
